@@ -7,16 +7,20 @@
     margin: 20px auto;
 }
 
-.park {
-    border: 1px solid black;
-    padding: 10px;
-    margin-bottom: 5px;
-}
-
-address {
-    margin: 10px 0;
-}
-
 h1{
-    margin-left: 20%;
+    margin-left: 40%;
+}
+
+.displayParks {
+    border: solid 1px;
+    margin: 10px;
+}
+
+label, h2 {
+    margin-left: 30%;
+}
+
+
+h2 {
+    margin-left: 25%;
 }
